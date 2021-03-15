@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2021-03-11T04:12:12 EST" name="Surefire suite" finished-at="2021-03-11T04:12:31 EST" duration-ms="18893">
+    <groups>
+    </groups>
+    <test started-at="2021-03-11T04:12:12 EST" name="Surefire test" finished-at="2021-03-11T04:12:31 EST" duration-ms="18893">
+      <class name="StreamsTest">
+        <test-method signature="ArrayToArrayListAndSort()[pri:0, instance:StreamsTest@1ad282e0]" started-at="2021-03-11T04:12:12 EST" name="ArrayToArrayListAndSort" finished-at="2021-03-11T04:12:12 EST" duration-ms="38" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ArrayToArrayListAndSort -->
+        <test-method signature="distinctSort()[pri:0, instance:StreamsTest@1ad282e0]" started-at="2021-03-11T04:12:12 EST" name="distinctSort" finished-at="2021-03-11T04:12:12 EST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- distinctSort -->
+        <test-method signature="interviewQuestion()[pri:0, instance:StreamsTest@1ad282e0]" started-at="2021-03-11T04:12:12 EST" name="interviewQuestion" finished-at="2021-03-11T04:12:12 EST" duration-ms="36" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- interviewQuestion -->
+      </class> <!-- StreamsTest -->
+      <class name="Streams2Test">
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:Streams2Test@70a9f84e]" started-at="2021-03-11T04:12:12 EST" name="setDriver" finished-at="2021-03-11T04:12:18 EST" duration-ms="5689" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method signature="StreamsExample1()[pri:0, instance:Streams2Test@70a9f84e]" started-at="2021-03-11T04:12:18 EST" name="StreamsExample1" finished-at="2021-03-11T04:12:18 EST" duration-ms="289" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StreamsExample1 -->
+        <test-method is-config="true" signature="terDown()[pri:0, instance:Streams2Test@70a9f84e]" started-at="2021-03-11T04:12:18 EST" name="terDown" finished-at="2021-03-11T04:12:18 EST" duration-ms="239" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terDown -->
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:Streams2Test@70a9f84e]" started-at="2021-03-11T04:12:18 EST" name="setDriver" finished-at="2021-03-11T04:12:25 EST" duration-ms="6976" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method signature="StreamsExample2()[pri:0, instance:Streams2Test@70a9f84e]" started-at="2021-03-11T04:12:25 EST" name="StreamsExample2" finished-at="2021-03-11T04:12:25 EST" duration-ms="301" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StreamsExample2 -->
+        <test-method is-config="true" signature="terDown()[pri:0, instance:Streams2Test@70a9f84e]" started-at="2021-03-11T04:12:25 EST" name="terDown" finished-at="2021-03-11T04:12:26 EST" duration-ms="209" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terDown -->
+        <test-method is-config="true" signature="setDriver()[pri:0, instance:Streams2Test@70a9f84e]" started-at="2021-03-11T04:12:26 EST" name="setDriver" finished-at="2021-03-11T04:12:29 EST" duration-ms="3892" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- setDriver -->
+        <test-method signature="StreamsExample3()[pri:0, instance:Streams2Test@70a9f84e]" started-at="2021-03-11T04:12:29 EST" name="StreamsExample3" finished-at="2021-03-11T04:12:30 EST" duration-ms="915" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- StreamsExample3 -->
+        <test-method is-config="true" signature="terDown()[pri:0, instance:Streams2Test@70a9f84e]" started-at="2021-03-11T04:12:30 EST" name="terDown" finished-at="2021-03-11T04:12:31 EST" duration-ms="204" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- terDown -->
+      </class> <!-- Streams2Test -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
